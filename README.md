@@ -20,6 +20,8 @@ MIT License
 
 ## Disclaimer
 For educational use only. Author not responsible for misuse.
+<img width="1917" height="838" alt="image" src="https://github.com/user-attachments/assets/1f90bf5c-7a21-47e5-b76f-ad79660c0be5" />
+
 
 ## Building EXE
 ```bash
